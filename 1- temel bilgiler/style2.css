@@ -1,0 +1,26 @@
+body{
+  background-color: gray;
+}
+.container{
+  padding-top: 20px;
+  width: 90%;
+  height: 8000px;
+  margin-left:auto;
+  margin-right:auto;
+  background-color:rgb(105, 134, 153);
+  text-align: center;
+  font-family:Arial, Helvetica, sans-serif ;
+  font-size:24px ;
+}
+.rainbowtext{
+  text-shadow: 
+  0px 1px 0px rgb(255, 0, 0),
+  1px 2px 0px rgb(43, 255, 0),
+  2px 3px 0px rgb(26, 133, 255),
+  3px 4px 0px rgb(248, 169, 66),
+  4px 5px 0px rgb(251, 255, 1),
+  5px 6px 0px rgb(209, 25, 255),
+  6px 7px 0px rgb(0, 133, 173),
+  7px 8px 7px #e418ff;
+}
+
